@@ -54,11 +54,11 @@
 		padding-top: 110px;
 		padding-bottom: 200px;
 	}
-	
+
 
 		.experience__icons-wrapper {
 			margin-bottom: 20px;
-			
+
 			//clearfix
 			&::after {
 				display: table;
@@ -79,7 +79,7 @@
 				background-position: 50%;
 				//filter: drop-shadow(0 0 7px rgba(0,0,0,0.2));
 
-				&--html5 { background-image: url("../img/exp/exp_html5.svg"); }
+				&--html5 { background-image: url("/assets/img/exp/exp_html5.svg"); }
 				&--css3 { background-image: url("../img/exp/exp_css3.svg"); }
 				&--javascript { background-image: url("../img/exp/exp_javascript.svg"); }
 				&--sass { background-image: url("../img/exp/exp_sass.svg"); }
@@ -119,6 +119,3 @@
 					//	left: 0;
 					//}
 				}
-
-
-
