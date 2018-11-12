@@ -643,19 +643,19 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 }
 
 .header__navigation-element--experience {
-  background-image: url("../img/title_square.svg");
+  background-image: url("/assets/img/title_square.svg");
 }
 
 .header__navigation-element--features {
-  background-image: url("../img/title_circle.svg");
+  background-image: url("/assets/img/title_circle.svg");
 }
 
 .header__navigation-element--realizations {
-  background-image: url("../img/title_pentagon.svg");
+  background-image: url("/assets/img/title_pentagon.svg");
 }
 
 .header__navigation-element--contact {
-  background-image: url("../img/title_triangle.svg");
+  background-image: url("/assets/img/title_triangle.svg");
 }
 
 .header__navigation a:hover .header__navigation-element {
@@ -723,7 +723,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   z-index: -400;
   width: 100%;
   height: 100%;
-  background-image: url("../img/hero_background.jpg");
+  background-image: url("/assets/img/hero_background.jpg");
   background-repeat: repeat;
 }
 
@@ -759,7 +759,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   opacity: 0.9;
   overflow: hidden;
   background-color: #1b0530;
-  background-image: url("../img/hero_gradient.png");
+  background-image: url("/assets/img/hero_gradient.png");
   background-size: 100%;
   background-position: 80% 80%;
   -webkit-animation-name: HeroGradient;
@@ -784,7 +784,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   width: 100%;
   height: 100%;
   opacity: 0.5;
-  background-image: url("../img/hero_pattern.png");
+  background-image: url("/assets/img/hero_pattern.png");
   background-repeat: repeat-x;
   background-position: bottom left;
 }
@@ -833,7 +833,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   width: 280px;
   height: 280px;
   border-radius: 150px;
-  background-image: url("../img/hero_photo.jpg");
+  background-image: url("/assets/img/hero_photo.jpg");
   background-size: cover;
 }
 
@@ -843,7 +843,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   left: 50px;
   width: 140px;
   height: 110px;
-  background-image: url("../img/hero_hat.png");
+  background-image: url("/assets/img/hero_hat.png");
   background-size: contain;
   -webkit-transition: -webkit-transform 210ms ease-in-out;
   transition: transform 210ms ease-in-out;
@@ -916,26 +916,26 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   padding-left: 60px;
   padding-bottom: 5px;
   border-bottom: 2px solid rgba(255, 255, 255, 0.1);
-  background-image: url("../img/title_square.svg");
+  background-image: url("/assets/img/title_square.svg");
   background-size: 40px 40px;
   background-position: 10px top;
   opacity: 1;
 }
 
 .section-header__title--experience {
-  background-image: url("../img/title_square.svg");
+  background-image: url("/assets/img/title_square.svg");
 }
 
 .section-header__title--features {
-  background-image: url("../img/title_circle.svg");
+  background-image: url("/assets/img/title_circle.svg");
 }
 
 .section-header__title--realizations {
-  background-image: url("../img/title_pentagon.svg");
+  background-image: url("/assets/img/title_pentagon.svg");
 }
 
 .section-header__title--contact {
-  background-image: url("../img/title_triangle.svg");
+  background-image: url("/assets/img/title_triangle.svg");
 }
 
 .section-header__subtitle {
@@ -978,7 +978,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   width: 100%;
   height: 1077px;
   content: " ";
-  background-image: url("../img/section_pattern01.png");
+  background-image: url("/assets/img/section_pattern01.png");
   opacity: 1;
   background-position: -80px 50px;
 }
@@ -986,7 +986,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 .experience__hollow-arrow {
   width: 100%;
   height: 40px;
-  background-image: url("../img/content_hollow-arrow.png");
+  background-image: url("/assets/img/content_hollow-arrow.png");
   background-position: 50% 50%;
   position: relative;
   top: -40px;
@@ -1133,7 +1133,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   width: 100%;
   height: 1080px;
   content: " ";
-  background-image: url("../img/section_pattern02.png");
+  background-image: url("/assets/img/section_pattern02.png");
   opacity: 1;
   background-position: 80px -75px;
 }
@@ -1176,43 +1176,43 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 }
 
 .features__image--mobile {
-  background-image: url("../img/feature/feature_mobile.svg");
+  background-image: url("/assets/img/feature/feature_mobile.svg");
 }
 
 .features__image--newest {
-  background-image: url("../img/feature/feature_newest.svg");
+  background-image: url("/assets/img/feature/feature_newest.svg");
 }
 
 .features__image--intuitive {
-  background-image: url("../img/feature/feature_intuitive.svg");
+  background-image: url("/assets/img/feature/feature_intuitive.svg");
 }
 
 .features__image--browsers {
-  background-image: url("../img/feature/feature_browsers.svg");
+  background-image: url("/assets/img/feature/feature_browsers.svg");
 }
 
 .features__image--clients {
-  background-image: url("../img/feature/feature_clients.svg");
+  background-image: url("/assets/img/feature/feature_clients.svg");
 }
 
 .features__image--fast {
-  background-image: url("../img/feature/feature_fast.svg");
+  background-image: url("/assets/img/feature/feature_fast.svg");
 }
 
 .features__image--seo {
-  background-image: url("../img/feature/feature_seo.svg");
+  background-image: url("/assets/img/feature/feature_seo.svg");
 }
 
 .features__image--secure {
-  background-image: url("../img/feature/feature_secure.svg");
+  background-image: url("/assets/img/feature/feature_secure.svg");
 }
 
 .features__image--semantic {
-  background-image: url("../img/feature/feature_semantic.svg");
+  background-image: url("/assets/img/feature/feature_semantic.svg");
 }
 
 .features__image--sourcefiles {
-  background-image: url("../img/feature/feature_sourcefiles.svg");
+  background-image: url("/assets/img/feature/feature_sourcefiles.svg");
 }
 
 .features__text {
@@ -1271,7 +1271,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   width: 100%;
   height: 1080px;
   content: " ";
-  background-image: url("../img/section_pattern03.png");
+  background-image: url("/assets/img/section_pattern03.png");
   opacity: 1;
 }
 
@@ -1604,7 +1604,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   width: 100%;
   height: 1080px;
   content: " ";
-  background-image: url("../img/section_pattern04.png");
+  background-image: url("/assets/img/section_pattern04.png");
   opacity: 1;
   background-position: 110px -110px;
 }
@@ -1902,7 +1902,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 .footer__image {
   width: 350px;
   height: 100px;
-  background-image: url("../img/footer_image.png");
+  background-image: url("/assets/img/footer_image.png");
   background-size: contain;
   background-position: center right;
   background-repeat: no-repeat;
