@@ -1020,7 +1020,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   float: left;
   width: 20%;
   height: 120px;
-  background-image: url("../img/exp_html5.svg");
+  background-image: url("/assets/img/exp_html5.svg");
   background-size: 100px 100px;
   background-position: 50%;
 }
@@ -1030,59 +1030,59 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 }
 
 .experience__icon--css3 {
-  background-image: url("../img/exp/exp_css3.svg");
+  background-image: url("/assets/img/exp/exp_css3.svg");
 }
 
 .experience__icon--javascript {
-  background-image: url("../img/exp/exp_javascript.svg");
+  background-image: url("/assets/img/exp/exp_javascript.svg");
 }
 
 .experience__icon--sass {
-  background-image: url("../img/exp/exp_sass.svg");
+  background-image: url("/assets/img/exp/exp_sass.svg");
 }
 
 .experience__icon--jquery {
-  background-image: url("../img/exp/exp_jquery.svg");
+  background-image: url("/assets/img/exp/exp_jquery.svg");
 }
 
 .experience__icon--wordpress {
-  background-image: url("../img/exp/exp_wordpress.svg");
+  background-image: url("/assets/img/exp/exp_wordpress.svg");
 }
 
 .experience__icon--git {
-  background-image: url("../img/exp/exp_git.svg");
+  background-image: url("/assets/img/exp/exp_git.svg");
 }
 
 .experience__icon--photoshop {
-  background-image: url("../img/exp/exp_photoshop.svg");
+  background-image: url("/assets/img/exp/exp_photoshop.svg");
 }
 
 .experience__icon--illustrator {
-  background-image: url("../img/exp/exp_illustrator.svg");
+  background-image: url("/assets/img/exp/exp_illustrator.svg");
 }
 
 .experience__icon--fireworks {
-  background-image: url("../img/exp/exp_fireworks.svg");
+  background-image: url("/assets/img/exp/exp_fireworks.svg");
 }
 
 .experience__icon--bootstrap {
-  background-image: url("../img/exp/exp_bootstrap.svg");
+  background-image: url("/assets/img/exp/exp_bootstrap.svg");
 }
 
 .experience__icon--ruby {
-  background-image: url("../img/exp/ruby-copy.png");
+  background-image: url("/assets/img/exp/ruby-copy.png");
 }
 
 .experience__icon--rails {
-  background-image: url("../img/exp/rails.png");
+  background-image: url("/assets/img/exp/rails.png");
 }
 
 .experience__icon--java {
-  background-image: url("../img/exp/java.png");
+  background-image: url("/assets/img/exp/java.png");
 }
 
 .experience__icon--foundation {
-  background-image: url("../img/exp/exp_foundation-glasses.svg");
+  background-image: url("/assets/img/exp/exp_foundation-glasses.svg");
 }
 
 .experience__icon-description {
