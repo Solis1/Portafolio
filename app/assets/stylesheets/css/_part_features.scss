@@ -30,7 +30,7 @@
 		width: 100%;
 		height: 1080px;
 		content: " ";
-		background-image: url("../img/section_pattern02.png");
+		background-image: url("ºimg/section_pattern02.png");
 		opacity: 1;
 		background-position: 80px -75px;
 	}
@@ -75,16 +75,16 @@
 					//filter: drop-shadow(0 0 7px rgba(0,0,0,0.2));
 					float: left;
 
-					&--mobile { background-image: url("../img/feature/feature_mobile.svg"); }
-					&--newest { background-image: url("../img/feature/feature_newest.svg"); }
-					&--intuitive { background-image: url("../img/feature/feature_intuitive.svg"); }
-					&--browsers { background-image: url("../img/feature/feature_browsers.svg"); }
-					&--clients { background-image: url("../img/feature/feature_clients.svg"); }
-					&--fast { background-image: url("../img/feature/feature_fast.svg"); }
-					&--seo { background-image: url("../img/feature/feature_seo.svg"); }
-					&--secure { background-image: url("../img/feature/feature_secure.svg"); }
-					&--semantic { background-image: url("../img/feature/feature_semantic.svg"); }
-					&--sourcefiles { background-image: url("../img/feature/feature_sourcefiles.svg"); }
+					&--mobile { background-image: url("/assets/img/feature/feature_mobile.svg"); }
+					&--newest { background-image: url("/assets/img/feature/feature_newest.svg"); }
+					&--intuitive { background-image: url("/assets/img/feature/feature_intuitive.svg"); }
+					&--browsers { background-image: url("/assets/img/feature/feature_browsers.svg"); }
+					&--clients { background-image: url("/assets/img/feature/feature_clients.svg"); }
+					&--fast { background-image: url("/assets/img/feature/feature_fast.svg"); }
+					&--seo { background-image: url("/assets/img/feature/feature_seo.svg"); }
+					&--secure { background-image: url("/assets/img/feature/feature_secure.svg"); }
+					&--semantic { background-image: url("/assets/img/feature/feature_semantic.svg"); }
+					&--sourcefiles { background-image: url("/assets/img/feature/feature_sourcefiles.svg"); }
 
 					//alternative
 					//&--mobile { background-image: url("../img/feature/alternative/feature_mobile.svg"); }
@@ -124,4 +124,3 @@
 						color: rgba(255,255,255,0.7);
 
 					}
-

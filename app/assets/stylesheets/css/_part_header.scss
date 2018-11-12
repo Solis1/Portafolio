@@ -90,16 +90,16 @@
 				background-position: 5px top;
 				transition: padding 100ms ease;
 				&--experience {
-					background-image: url("../img/title_square.svg");
+					background-image: url("/assets/img/title_square.svg");
 				}
 				&--features {
-					background-image: url("../img/title_circle.svg");
+					background-image: url("/assets/img/title_circle.svg");
 				}
 				&--realizations {
-					background-image: url("../img/title_pentagon.svg");
+					background-image: url("/assets/img/title_pentagon.svg");
 				}
 				&--contact {
-					background-image: url("../img/title_triangle.svg");
+					background-image: url("/assets/img/title_triangle.svg");
 				}
 			}
 
